@@ -1,0 +1,43 @@
+.block {
+      background: #c24f19;
+      border: 9px;
+
+}
+img { max-width: 100%;
+      height: auto;
+}
+h1 {
+      font-family: 'Anton', sans-serif;
+      color: white;
+      text-shadow:
+              -1px -1px 0 #000,
+              0   -1px 0 #000,
+              1px -1px 0 #000,
+              1px  0   0 #000,
+              1px  1px 0 #000,
+              0    1px 0 #000,
+              -1px  1px 0 #000,
+              -1px  0   0 #000;
+}
+h2 {
+      font-family: 'Roboto', sans-serif;
+      color: white;
+      text-shadow:
+              -1px -1px 0 #000,
+              0   -1px 0 #000,
+              1px -1px 0 #000,
+              1px  0   0 #000,
+              1px  1px 0 #000,
+              0    1px 0 #000,
+              -1px  1px 0 #000,
+              -1px  0   0 #000;
+}
+p{
+      font-family: 'Lobster', cursive;
+      text-shadow: #1a1e21 1px 0 10px;
+}
+li {
+      font-family: 'Anton', sans-serif;
+      color: white;
+      text-shadow: #1a1e21 1px 0 20px;
+}
